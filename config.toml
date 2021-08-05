@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'wildan code'
+theme = 'wcoding'
+SummaryLength  = 10
+paginate = 2
+
+[params]
+    Description = "tempate belajar koding"
