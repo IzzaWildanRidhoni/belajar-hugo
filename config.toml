@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://wildancode.netlify.app/'
 languageCode = 'en-us'
 title = 'wildan code'
 theme = 'wcoding'
